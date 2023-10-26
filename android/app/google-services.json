@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99223814106",
+    "project_id": "flutotp",
+    "storage_bucket": "flutotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99223814106:android:0a07bae4381014eb0a4ae3",
+        "android_client_info": {
+          "package_name": "com.example.flutotp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaajXGc8tB0B277_-GJMZmmslA9tJGCZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
